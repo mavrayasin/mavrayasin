@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/yasinelmas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinelmas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20301448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20301448" height="30" width="40" /></a>
 <a href="https://instagram.com/myasinelmas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myasinelmas" height="30" width="40" /></a>
-<a href="https://medium.com/ysnlms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ysnlms" height="30" width="40" /></a>
+<a href="https://medium.com/@ysnlms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ysnlms" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
