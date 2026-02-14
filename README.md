@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/myasinelmas" target="blank"><img src="https://img.shields.io/twitter/follow/myasinelmas?logo=twitter&style=for-the-badge" alt="myasinelmas" /></a> </p>
 
-- 🔭 I’m currently working on [UNACS](https://unacs-test.atilim.edu.tr)
-
 - 🌱 I’m currently learning **Microservice Architecture**
 
 - 💬 Ask me about **C#, vue.js and vb.**
